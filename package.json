@@ -1,0 +1,14 @@
+{
+  "name": "firsttest",
+  "version": "1.0.0",
+  "description": "my first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.0.1"
+  }
+}
