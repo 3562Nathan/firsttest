@@ -2,3 +2,7 @@
 gitkraken_rsa\.pub
 
 gitkraken_rsa
+
+cypress/videos/
+
+cypress/screenshots/
