@@ -6,3 +6,5 @@ gitkraken_rsa
 cypress/videos/
 
 cypress/screenshots/
+
+.vscode
